@@ -10,7 +10,7 @@ export function Footer() {
             <div className="space-y-2 text-sm">
               <p>For complaints or customer service inquiries, reach us at:</p>
               <p className="font-semibold mt-3">Mailing Address:</p>
-              <p>99 Wall Street, New York, NY 10005</p>
+              <p>99 Wall Street, New York, NY 10005 USA  </p>
               <p className="font-semibold mt-3">Email:</p>
               <p>support@customerhelp.cc</p>
               <p className="mt-4">We're here to make your experience smooth, hassle-free, and satisfactory.</p>

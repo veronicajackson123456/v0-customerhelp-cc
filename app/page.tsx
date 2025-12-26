@@ -89,7 +89,7 @@ export default function Home() {
           <div className="space-y-4 mb-8">
             <div>
               <p className="text-lg font-semibold mb-2">Mailing Address:</p>
-              <p className="text-lg">99 Wall Street, New York, NY 10005</p>
+              <p className="text-lg">99 Wall Street, New York, NY 10005 USA     </p>
             </div>
             <div>
               <p className="text-lg font-semibold mb-2">Email:</p>

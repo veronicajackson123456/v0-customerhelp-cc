@@ -120,7 +120,7 @@ export default function Contact() {
                     </div>
                     <div>
                       <h3 className="text-xl font-bold mb-2">Address</h3>
-                      <p className="text-muted-foreground">12 Avenue, New York, NY 10160</p>
+                      <p className="text-muted-foreground">99 Wall Street, New York, NY 10005 USA</p>
                     </div>
                   </div>
                 </div>
@@ -144,7 +144,7 @@ export default function Contact() {
                     </div>
                     <div>
                       <h3 className="text-xl font-bold mb-2">Phone</h3>
-                      <p className="text-muted-foreground">+1 (307) 395 3518</p>
+                      <p className="text-muted-foreground">+1 (646) 820 5995</p>
                     </div>
                   </div>
                 </div>
