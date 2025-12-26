@@ -97,7 +97,7 @@ export default function Home() {
             </div>
           </div>
           <p className="text-lg max-w-2xl mx-auto leading-relaxed">
-            We're here to make your experience smooth, hassle-free, and satisfactory.
+            We're here to make your experience smooth, hassle-free, and satisfactory
           </p>
           <div className="mt-10">
             <Button asChild size="lg" variant="secondary" className="text-lg px-8">
