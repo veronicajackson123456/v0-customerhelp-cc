@@ -18,7 +18,7 @@ export function Footer() {
           </div>
 
           <div>
-            <h3 className="text-xl font-bold mb-4">Quick Links</h3>
+            <h3 className="text-xl font-bold mb-4">Legal & Resources</h3>
             <nav className="space-y-2 text-sm">
               <Link href="/" className="block hover:underline">
                 Home
@@ -28,6 +28,21 @@ export function Footer() {
               </Link>
               <Link href="/terms-and-conditions" className="block hover:underline">
                 Terms and Conditions
+              </Link>
+              <Link href="/cookie-policy" className="block hover:underline">
+                Cookie Policy
+              </Link>
+            </nav>
+          </div>
+
+          <div>
+            <h3 className="text-xl font-bold mb-4">Information</h3>
+            <nav className="space-y-2 text-sm">
+              <Link href="/disclaimer" className="block hover:underline">
+                Disclaimer
+              </Link>
+              <Link href="/accessibility-statement" className="block hover:underline">
+                Accessibility Statement
               </Link>
               <Link href="/contact" className="block hover:underline">
                 Contact
